@@ -10,4 +10,4 @@ def mul(a,b):
 def div(a,b):
     return a // b # ‚È‚Ü‚¦
 
-vim: syntax=java
+vim: syntax=python
