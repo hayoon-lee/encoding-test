@@ -8,5 +8,6 @@ def mul(a,b):
     return a * b 
 
 def div(a,b):
-    return a // b # �Ȃ܂�
+    return a // b # ‚È‚Ü‚¦
 
+//vim: syntax=Python
