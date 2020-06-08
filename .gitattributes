@@ -1,3 +1,2 @@
 *.py linguist-language=Python
-*.py encoding=UTF-8
 *.src linguist-language=JavaScript
