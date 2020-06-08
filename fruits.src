@@ -1,0 +1,6 @@
+fruits = [g‚è‚ñ‚²h, g‚Ô‚Ç‚¤h, gƒoƒiƒih]
+print(fruits) 
+
+print(fruits[0])@
+print(fruits[2]) 
+print(gD‚«‚Èƒtƒ‹[ƒc‚Í + friuts[1] + g‚Å‚·Bh)
