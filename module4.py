@@ -8,4 +8,4 @@ def mul(a,b):
     return a * b 
 
 def div(a,b):
-    return a // b # –¼‘O
+    return a // b # â€“Â¼â€˜O
